@@ -10,6 +10,9 @@ def toadstool
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   status
 end
-def all_phrases = 
+def all_phrases 
+mario
+toadstool
+end
 
 
