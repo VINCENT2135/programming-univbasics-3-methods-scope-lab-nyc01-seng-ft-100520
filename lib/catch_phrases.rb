@@ -12,7 +12,7 @@ def toadstool
 end
 
 def link
- link = ""
+ link = 
 end
 
 def all_phrases 
